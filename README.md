@@ -35,19 +35,6 @@ The following tools and libraries were used:
   - `numpy` for numerical computations.
   - `matplotlib` and `seaborn` for data visualization.
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/eBay-Car-Sales-Data-Analysis.git
-   ```
-2. Navigate to the repository directory:
-   ```bash
-   cd eBay-Car-Sales-Data-Analysis
-   ```
-3. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook "Exploring eBay Car Sales Data.ipynb"
-   ```
 4. Run the notebook to explore the analysis.
 
 ## Key Findings
