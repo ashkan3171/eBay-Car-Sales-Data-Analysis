@@ -33,7 +33,6 @@ The following tools and libraries were used:
 - **Python**: The primary programming language.
   - `pandas` for data manipulation.
   - `numpy` for numerical computations.
-  - `matplotlib` and `seaborn` for data visualization.
 
 4. Run the notebook to explore the analysis.
 
